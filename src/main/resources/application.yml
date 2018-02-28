@@ -1,6 +1,6 @@
 spring:
   application:
-    name: hello-server-eureka-exmaple
+    name: hello-server-eureka-example
     
     
 server:
